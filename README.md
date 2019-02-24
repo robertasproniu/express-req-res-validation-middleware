@@ -1,2 +1,2 @@
 # express-req-res-validation-middleware
-Validate express Request and Response objects
+`Express` middleware for validating Request and Response objects
